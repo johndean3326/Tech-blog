@@ -10,7 +10,7 @@ npm i
 
 mysql -u root -p
 
-Enter PW when promted
+Enter PW when prompted
 
 source db/schema.sql
 
@@ -22,3 +22,4 @@ node server
 
 
 Link to deployed site: [Tech-Blog](https://enigmatic-beach-55188.herokuapp.com/)
+[Github](https://github.com/johndean3326/Tech-blog)
