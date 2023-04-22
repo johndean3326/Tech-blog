@@ -16,10 +16,10 @@ source db/schema.sql
 
 quit
 
-node seeds/index.js
-
 node server
 
 
-Link to deployed site: [Tech-Blog](https://enigmatic-beach-55188.herokuapp.com/)
+Link to deployed site: [Tech-Blog]https://techblog14.herokuapp.com/
 [Github](https://github.com/johndean3326/Tech-blog)
+
+![Screenshot](C:\Users\jldco\Desktop\Git_hub\Tech-blog\assets\Screenshot 2023-04-16 004025.png)
