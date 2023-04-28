@@ -16,6 +16,8 @@ source db/schema.sql
 
 quit
 
+node seeds/index.js
+
 node server
 
 

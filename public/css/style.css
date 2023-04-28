@@ -1,10 +1,10 @@
 :root {
-  --primary: #ccdad1;
-  --secondary: #9caea9;
-  --tertiary: #788585;
-  --light-dark: #6f6866;
-  --dark: #38302e;
-  --border-radius: 0.3rem;
+  --primary: #82e4a5;
+  --secondary: #7c88f5;
+  --tertiary: #ddee92;
+  --light-dark: #f7653c;
+  --dark: #8056f5;
+  --border-radius: 0.5rem;
 }
 
 * {
@@ -17,8 +17,8 @@ body {
   padding: 0;
   font-family: "IBM Plex Sans", sans-serif;
   color: var(--dark);
-  line-height: 1.5;
-  font-size: 16px;
+  line-height: 2;
+  font-size: 18px;
 }
 
 h1,
@@ -30,7 +30,7 @@ h6 {
   font-weight: 700;
   margin: 0;
   color: var(--dark);
-  line-height: 1.25;
+  line-height: 3.25;
 }
 
 h2 a:visited {
